@@ -1,9 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://github.com/Krishna7777-pittu/TAIRP/tree/main/Food%20-%20Recipe)
-  ![GitHub stars](https://img.shields.io/github/stars/pittu yasoda krishna/foodie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pittu yasoda krishna/foodie?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/pittu yasoda krishna?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  
   
 
   <br />
