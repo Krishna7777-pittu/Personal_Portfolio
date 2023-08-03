@@ -5,9 +5,6 @@
 
   <a href="https://github.com/Krishna7777-pittu/TAIRP/tree/main/Food%20-%20Recipe"><strong>➥ Live Demo</strong></a>
   
-### Demo Screeshots
-
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Contact
 
